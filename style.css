@@ -1,0 +1,39 @@
+/* Funny Jokes — clean, fast, mobile-friendly. No external fonts or libraries. */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; line-height: 1.6; color: #222; background: #fffdf5; }
+header { background: #ffcf3f; border-bottom: 3px solid #222; }
+.nav { max-width: 860px; margin: 0 auto; padding: 12px 16px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px; justify-content: space-between; }
+.logo { font-size: 1.4rem; font-weight: 800; color: #222; text-decoration: none; }
+.nav ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 4px; }
+.nav ul a { color: #222; text-decoration: none; font-weight: 600; padding: 6px 10px; border-radius: 6px; }
+.nav ul a:hover { background: #ffe98a; text-decoration: underline; }
+main { max-width: 860px; margin: 0 auto; padding: 16px 16px 48px; }
+h1 { font-size: 2rem; line-height: 1.25; margin: 16px 0 8px; }
+h2 { font-size: 1.45rem; margin: 32px 0 8px; border-bottom: 2px solid #ffcf3f; padding-bottom: 4px; }
+h3 { font-size: 1.1rem; margin: 20px 0 4px; }
+p { margin: 8px 0; }
+a { color: #0b5fff; }
+.quick-answer { background: #fff3bf; border: 2px solid #ffcf3f; border-radius: 10px; padding: 12px 16px; }
+.toc { background: #fff; border: 1px solid #ddd; border-radius: 10px; padding: 12px 16px; }
+.toc ul, .toc ol { margin: 8px 0; }
+.toc a { text-decoration: none; }
+.toc a:hover { text-decoration: underline; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 20px 0 8px; }
+.toolbar input[type="search"] { flex: 1 1 220px; padding: 10px 12px; font-size: 1rem; border: 2px solid #222; border-radius: 8px; }
+button { cursor: pointer; font-size: 1rem; }
+.random-btn { background: #222; color: #fff; border: 2px solid #222; border-radius: 8px; padding: 10px 16px; font-weight: 700; }
+.random-btn:hover { background: #444; }
+.search-count { font-weight: 600; }
+ol.jokes { padding-left: 28px; }
+ol.jokes li.joke { margin: 12px 0; padding: 10px 12px; background: #fff; border: 1px solid #eee; border-radius: 8px; }
+ol.jokes li.joke.highlight { outline: 3px solid #ffcf3f; background: #fff8d6; }
+.joke-text { display: block; }
+.copy-btn { margin-top: 6px; font-size: 0.85rem; padding: 4px 10px; border: 1px solid #888; border-radius: 6px; background: #f5f5f5; }
+.copy-btn:hover { background: #e8e8e8; }
+.faq-item { margin: 16px 0; }
+form label { display: block; font-weight: 600; margin: 12px 0 4px; }
+form input, form textarea { width: 100%; max-width: 520px; padding: 10px; font-size: 1rem; border: 2px solid #888; border-radius: 8px; font-family: inherit; }
+form button { margin-top: 14px; background: #222; color: #fff; border: 2px solid #222; border-radius: 8px; padding: 10px 18px; font-weight: 700; }
+.note { background: #eef4ff; border-left: 4px solid #0b5fff; padding: 10px 14px; }
+footer { max-width: 860px; margin: 0 auto; padding: 20px 16px 32px; border-top: 1px solid #ddd; color: #555; font-size: 0.95rem; }
+@media (max-width: 600px) { h1 { font-size: 1.6rem; } h2 { font-size: 1.25rem; } .nav { flex-direction: column; align-items: flex-start; } }
