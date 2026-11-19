@@ -3,11 +3,11 @@
 > A clean, family-friendly joke blog. 104 original jokes, written in our own words, in 10 categories of 10 jokes each, plus 4 new classic jokes. New jokes are added slowly, 2 to 4 at a time. No dark or adult humour.
 
 ## Site
-- Home: https://funny-jokes-blog.vercel.app/
-- About: https://funny-jokes-blog.vercel.app/about.html
-- Privacy Policy: https://funny-jokes-blog.vercel.app/privacy-policy.html
-- Contact: https://funny-jokes-blog.vercel.app/contact.html
-- Sitemap: https://funny-jokes-blog.vercel.app/sitemap.xml
+- Home: https://funnyjokeshub.vercel.app/
+- About: https://funnyjokeshub.vercel.app/about.html
+- Privacy Policy: https://funnyjokeshub.vercel.app/privacy-policy.html
+- Contact: https://funnyjokeshub.vercel.app/contact.html
+- Sitemap: https://funnyjokeshub.vercel.app/sitemap.xml
 
 ## The 104 jokes
 Total: exactly 104 jokes, numbered 1 to 104 on the home page.

@@ -3,4 +3,4 @@ Allow: /
 Allow: /llms.txt
 Allow: /sitemap.xml
 
-Sitemap: https://funny-jokes-blog.vercel.app/sitemap.xml
+Sitemap: https://funnyjokeshub.vercel.app/sitemap.xml
