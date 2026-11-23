@@ -1,6 +1,6 @@
 # Funny Jokes
 
-> A clean, family-friendly joke blog. 104 original jokes, written in our own words, in 10 categories of 10 jokes each, plus 4 new classic jokes. New jokes are added slowly, 2 to 4 at a time. No dark or adult humour.
+> A clean, family-friendly joke blog. 108 original jokes, written in our own words, in 10 categories of 10 jokes each, plus 8 new classic jokes. New jokes are added slowly, 2 to 4 at a time. No dark or adult humour.
 
 ## Site
 - Home: https://funnyjokeshub.vercel.app/
@@ -9,8 +9,8 @@
 - Contact: https://funnyjokeshub.vercel.app/contact.html
 - Sitemap: https://funnyjokeshub.vercel.app/sitemap.xml
 
-## The 104 jokes
-Total: exactly 104 jokes, numbered 1 to 104 on the home page.
+## The 108 jokes
+Total: exactly 108 jokes, numbered 1 to 108 on the home page.
 - Short Jokes: jokes 1–10 (#short-jokes)
 - Dad Jokes: jokes 11–20 (#dad-jokes)
 - Knock-Knock Jokes: jokes 21–30 (#knock-knock-jokes)
@@ -20,7 +20,7 @@ Total: exactly 104 jokes, numbered 1 to 104 on the home page.
 - Food Jokes: jokes 61–70 (#food-jokes)
 - Work & Office Jokes: jokes 71–80 (#work-office-jokes)
 - School Jokes: jokes 81–90 (#school-jokes)
-- Clean Classic Jokes: jokes 91–104 (#clean-classic-jokes)
+- Clean Classic Jokes: jokes 91–108 (#clean-classic-jokes)
 
 ## Categories
 - Short Jokes: quick jokes you can tell in seconds.
@@ -35,7 +35,7 @@ Total: exactly 104 jokes, numbered 1 to 104 on the home page.
 - Clean Classic Jokes: gentle, timeless jokes about the sun, the moon, rain, and gardens.
 
 ## Pages
-- index.html: the 104 jokes, plus Table of Contents, Quick Answer, What Makes a Joke Funny, How to Tell a Joke, FAQ (7 questions), and Final Thoughts. Includes a copy button per joke, a search/filter box, and a random-joke button (script.js).
+- index.html: the 108 jokes, plus Table of Contents, Quick Answer, What Makes a Joke Funny, How to Tell a Joke, FAQ (7 questions), and Final Thoughts. Includes a copy button per joke, a search/filter box, and a random-joke button (script.js).
 - about.html: about the site and how it grows.
 - privacy-policy.html: privacy policy — the site collects no personal information.
 - contact.html: contact form for joke suggestions. No email address is published on the site yet.
